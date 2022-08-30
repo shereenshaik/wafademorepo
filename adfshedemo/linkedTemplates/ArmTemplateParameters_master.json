@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adfshedemo"
 		},
+		"ls_github_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},

@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfshedemo"
+		},
+		"ls_github_connectionString": {
+			"value": ""
 		}
 	}
 }
